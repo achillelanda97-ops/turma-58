@@ -1,25 +1,5 @@
 # exemplo de cada passos para subir o repositorio no git local!
 
--O primeiro passo é o git init
+# # A programação é a base da vida 
 
--depois criar o nome do arquivo
-
--Mudando o nome do arquivo se quiser
-
-Alunos:
-
-Achille
-
-Dede
-
-Mamie
-
-Tony
-
-Nika
-
-Didi
-
-Patricia
-
-Patrick
+Nese mundo hoje sem a lógica, somos nada mesmo.
