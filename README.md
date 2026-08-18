@@ -1,0 +1,1 @@
+exemplo de cada passos para subir o repositorio no git local!
