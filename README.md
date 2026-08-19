@@ -23,3 +23,16 @@ Didi
 Patricia
 
 Patrick
+
+<p>Biso to liaka mbua te</p>
+    <h2>kwanga na makayabu  nde</h2>
+    <ul>
+        <li>loso</li>
+        <li>soso</li>
+        <li>Makayabu</li>
+        <li>fumbwa</li>
+        <li>Madesu</li>
+        <li>Mpiodi</li>
+    </ul>
+
+    <fieldset><strong>Cette parcelle n'est pas à vendre!</strong></fieldset>
